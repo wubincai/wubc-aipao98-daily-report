@@ -1,0 +1,22 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 本地配置文件
+scripts/config.json
+
+# 个人配置
+*.secret.*
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/

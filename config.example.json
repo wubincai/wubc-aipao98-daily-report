@@ -1,0 +1,13 @@
+{
+  "config_version": 1,
+  "base_reward": 0.25,
+  "periods": [
+    {"name": "00:00-03:00", "teams": [{"members": 1}]},
+    {"name": "3:00-6:00", "teams": [{"members": 1}]},
+    {"name": "6:00-6:30", "teams": [{"members": 2}]},
+    {"name": "06:30-08:00", "teams": [{"members": 2}, {"members": 2}]},
+    {"name": "08:00-14:00", "teams": [{"members": 3}, {"members": 3}]},
+    {"name": "14:00-22:00", "teams": [{"members": 3}, {"members": 3}]},
+    {"name": "22:00-24:00", "teams": [{"members": 2}]}
+  ]
+}
